@@ -1,0 +1,2 @@
+rootProject.name='Android-EdiText-Preferences-Master'
+include ':app'
